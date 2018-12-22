@@ -11,7 +11,7 @@ The SelfBot's commands may be viewed by typing `~p help` or `~p commands`. You c
 #### Automatic Identifier
 The 'Automatic Identifier' is a free extension to the SelfBot, and is installed by default. It works in unison with your Discord software, scanning images and identifying the Pokemon, then showing the name on screen.
 #### Automatic Catcher
-The 'Automatic Catcher' is a paid extension to the SelfBot. See [the Donate page](https://github.com/DankDominick/Pokecord-Selfbot#Donate "Donate"). It works in unison with your Discord software and the 'Automatic Identifier' plugin, recieving data from the plugin and automatically typing `p!catch <pokemon>`.
+The 'Automatic Catcher' is a paid extension to the SelfBot. See [the Donate page](https://github.com/DankDominick/pokecord-selfbot#donate). It works in unison with your Discord software and the 'Automatic Identifier' plugin, recieving data from the plugin and automatically typing `p!catch <pokemon>`.
 ## Donate
 ### Features
 A donation of US$1 will unlock the 'Automatic Catcher' plugin to the base SelfBot software, so you can leave your computer idle for hours at a time.
