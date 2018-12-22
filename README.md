@@ -17,3 +17,5 @@ The 'Automatic Catcher' is a paid extension to the SelfBot. See [the Donate page
 A donation of US$1 will unlock the 'Automatic Catcher' plugin to the base SelfBot software, so you can leave your computer idle for hours at a time.
 ### Link
 To unlock the link, PM me on Discord at Dominick#2312. One copy of the plugin is US$1.
+## Legal
+Please note that I am not responsible for any incidents caused by the software, including: Discord ban.
