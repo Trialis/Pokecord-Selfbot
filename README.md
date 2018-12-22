@@ -6,6 +6,7 @@ Pokecord Selfbot is a program created by DankDominick (Dominick#2312) made to au
 Pokecord Selfbot ("SelfBot")'s default prefix is `~p`. This prefix can be changed by typing `~p prefix <new prefix>`.
 ### Commands & Help
 The SelfBot's commands may be viewed by typing `~p help` or `~p commands`. You can get help for a command by typing `~p commands -help --<command name>`.
+## Features
 ### Automatic Identifier and Catcher
 #### Automatic Identifier
 The 'Automatic Identifier' is a free extension to the SelfBot, and is installed by default. It works in unison with your Discord software, scanning images and identifying the Pokemon, then showing the name on screen.
