@@ -1,4 +1,6 @@
 # Pokecord Selfbot
+![language](https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-yellow.svg?logo=appveyor&style=for-the-badge)
+![license](https://img.shields.io/badge/License-GPL%20V3-green.svg?logo=appveyor&style=for-the-badge)
 ### Automatically catch Pokecord's Pokemon!
 Pokecord Selfbot is a program created by DankDominick (Dominick#2312) made to automatically identify and catch Pokemon spawned by the Discord Pokecord bot.
 ## Usage
