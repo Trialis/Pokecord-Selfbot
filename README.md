@@ -38,7 +38,7 @@ The 'Bulk Trader' is a paid extension to the SelfBot. See [the Donate page](http
 ##### Usage
 ~p bulk-trade @[username]
 ## Installation
-To install, simply run `install.bat` in the master folder. After installation is finished, the SelfBot will automatically start. You may start the SelfBot at any time by running `start.bat` in the master folder. The SelfBot will open the Discord desktop program if it is not already running, or take you to the download page.
+To install, simply run `install.bat` in the master folder. After installation is finished, the SelfBot will automatically start. You may start the SelfBot at any time by running `start.bat` in the master folder, or running the `Pokecord Selfbot` shortcut. (You may move the shortcut to your desktop or any other folder for easy access.) The SelfBot will open the Discord desktop program if it is not already running, or take you to the download page.
 ## Donate
 ### Features
 A donation of US$1 will unlock all paid plugins to the base SelfBot software.
