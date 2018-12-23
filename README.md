@@ -35,7 +35,7 @@ The 'Bulk Trader' is a paid extension to the SelfBot. See [the Donate page](http
 ### Features
 A donation of US$1 will unlock all paid plugins to the base SelfBot software.
 ### Link
-To unlock the link, PM Dominick on Discord at Dominick#2312. One copy of the plugin is US$1.
+To unlock the link, PM Dominick on Discord at Dominick#2312. One copy of the software pack is US$1.
 ## Notes
 - It is recommended to donate and use an alt account with the spammer and auto catcher, using the Bulk Trader plugin to backup all of your Pokemon every while, to avoid being banned on your main account and losing all of your Pokemon.
 ## Legal
