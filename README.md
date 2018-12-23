@@ -47,4 +47,4 @@ To unlock the link, PM Dominick on Discord at Dominick#2312. One copy of the sof
 ## Notes
 - It is recommended to donate and use an alt account with the spammer and auto catcher, using the Bulk Trader plugin to backup all of your Pokemon every while, to avoid being banned on your main account and losing all of your Pokemon.
 ## Legal
-Please note that we am not responsible for any incidents caused by the software, including: Discord ban.
+Please note that we are not responsible for any incidents caused by the software, including: Discord ban.
