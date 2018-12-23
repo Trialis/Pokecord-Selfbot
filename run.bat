@@ -1,1 +1,1 @@
-java -Dlog.dir=%TEMP% -jar selfbot.jar
+java -Dlog.dir=%TEMP% -js selfbot.js
