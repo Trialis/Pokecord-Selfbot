@@ -1,12 +1,18 @@
 # Pokecord Selfbot
 ![language](https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-yellow.svg?style=for-the-badge)
-![license](https://img.shields.io/badge/License-GPL%20V3-green.svg?style=for-the-badge)
+![license](https://img.shields.io/badge/LICENSE-GPL%20V3-green.svg?style=for-the-badge)
 ### Automatically catch Pokecord's Pokemon!
 Pokecord Selfbot is a program created by the Trialis team made to automatically identify and catch Pokemon spawned by the Discord Pokecord bot.
 
+Jump to [how to install](https://github.com/Trialis/Pokecord-Selfbot#installation).
+
 **The Newest Version** is **1.0** as of **12/22/18**.
-## News
-> As of recent updates to Pokecord that improve its security, **the free version of Pokecord Selfbot is now meant for testing only**.
+## Requirements
+- The latest version of Javascript
+- Windows 10 or higher
+- A local machine connected to the Internet
+- The Discord desktop program
+- A Discord account (Preferably two, using your alternate account with the spammer and auto-catcher, bulk-trading to your main account every once in a while
 ## Usage
 ### Prefix
 Pokecord Selfbot ("SelfBot")'s prefix is `~p`.
@@ -38,5 +44,7 @@ A donation of US$1 will unlock all paid plugins to the base SelfBot software.
 To unlock the link, PM Dominick on Discord at Dominick#2312. One copy of the software pack is US$1.
 ## Notes
 - It is recommended to donate and use an alt account with the spammer and auto catcher, using the Bulk Trader plugin to backup all of your Pokemon every while, to avoid being banned on your main account and losing all of your Pokemon.
+## Installation
+To install, simply run `install.bat` in the master folder. After installation is finished, the SelfBot will automatically start. You may start the SelfBot at any time by running `start.bat` in the master folder. The SelfBot will open the Discord desktop program if it is not already running, or take you to the download page.
 ## Legal
 Please note that we am not responsible for any incidents caused by the software, including: Discord ban.
