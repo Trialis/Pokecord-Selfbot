@@ -27,10 +27,16 @@ The 'Spammer' is a free extension to the SelfBot, and is installed by default. I
 The 'Automatic Catcher' is a paid extension to the SelfBot. See [the Donate page](https://github.com/DankDominick/pokecord-selfbot#donate). It works in unison with your Discord software and the 'Automatic Identifier' plugin, recieving data from the plugin and automatically typing `p!catch <pokemon>`.
 ##### Usage
 ~p automatic-catcher [on/off]
+#### Bulk Trader
+The 'Bulk Trader' is a paid extension to the SelfBot. See [the Donate page](https://github.com/DankDominick/pokecord-selfbot#donate). It trades all of the Pokemon in your inventory to another user in less than a second.
+##### Usage
+~p bulk-trade @[username]
 ## Donate
 ### Features
 A donation of US$1 will unlock all paid plugins to the base SelfBot software.
 ### Link
 To unlock the link, PM Dominick on Discord at Dominick#2312. One copy of the plugin is US$1.
+## Notes
+- It is recommended to donate and use an alt account with the spammer and auto catcher, using the Bulk Trader plugin to backup all of your Pokemon every while, to avoid being banned on your main account and losing all of your Pokemon.
 ## Legal
 Please note that we am not responsible for any incidents caused by the software, including: Discord ban.
