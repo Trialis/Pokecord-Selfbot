@@ -2,7 +2,7 @@
 ![language](https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-yellow.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/License-GPL%20V3-green.svg?style=for-the-badge)
 ### Automatically catch Pokecord's Pokemon!
-Pokecord Selfbot is a program created by DankDominick (Dominick#2312) made to automatically identify and catch Pokemon spawned by the Discord Pokecord bot.
+Pokecord Selfbot is a program created by the Trialis team made to automatically identify and catch Pokemon spawned by the Discord Pokecord bot.
 
 **The Newest Version** is **1.0** as of **12/22/18**.
 ## News
@@ -31,6 +31,6 @@ The 'Automatic Catcher' is a paid extension to the SelfBot. See [the Donate page
 ### Features
 A donation of US$1 will unlock the 'Automatic Catcher' plugin to the base SelfBot software, so you can leave your computer idle for hours at a time.
 ### Link
-To unlock the link, PM me on Discord at Dominick#2312. One copy of the plugin is US$1.
+To unlock the link, PM Dominick on Discord at Dominick#2312. One copy of the plugin is US$1.
 ## Legal
-Please note that I am not responsible for any incidents caused by the software, including: Discord ban.
+Please note that we am not responsible for any incidents caused by the software, including: Discord ban.
