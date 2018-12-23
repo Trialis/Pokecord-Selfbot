@@ -1,7 +1,7 @@
 # Pokecord Selfbot
 ![language](https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-yellow.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/LICENSE-GPL%20V3-green.svg?style=for-the-badge)
-![autocatcher](https://img.shields.io/badge/AUTOCATCHER-US$1-red.svg?style=for-the-badge)
+![paid-stuff](https://img.shields.io/badge/AUTOCATCHER,%20BULKTRADER-US$1-red.svg?style=for-the-badge)
 ### Automatically catch Pokecord's Pokemon!
 Pokecord Selfbot is a program created by the Trialis team made to automatically identify and catch Pokemon spawned by the Discord Pokecord bot.
 
