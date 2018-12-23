@@ -5,7 +5,7 @@
 Pokecord Selfbot is a program created by DankDominick (Dominick#2312) made to automatically identify and catch Pokemon spawned by the Discord Pokecord bot.
 
 **The Newest Version** is **1.0** as of **12/22/18**.
-## NEWS
+## News
 > As of recent updates to Pokecord that improve its security, **the free version of Pokecord Selfbot is now meant for testing only**.
 ## Usage
 ### Prefix
