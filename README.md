@@ -7,9 +7,12 @@ Pokecord Selfbot ("SelfBot")'s default prefix is `~p`. This prefix can be change
 ### Commands & Help
 The SelfBot's commands may be viewed by typing `~p help` or `~p commands`. You can get help for a command by typing `~p commands -help --<command name>`.
 ## Features
-### Automatic Identifier and Catcher
+### Free Plugins
 #### Automatic Identifier
 The 'Automatic Identifier' is a free extension to the SelfBot, and is installed by default. It works in unison with your Discord software, scanning images and identifying the Pokemon, then showing the name on screen.
+#### Spammer
+The 'Spammer' is a free extension to the SelfBot, and is installed by default. It works in unison with your Discord software, automatically sending 1-letter-long text every couple milliseconds, which will eventually spawn a Pokemon, triggering the 'Automatic Catcher' plugin if it's installed.
+### Paid Plugins
 #### Automatic Catcher
 The 'Automatic Catcher' is a paid extension to the SelfBot. See [the Donate page](https://github.com/DankDominick/pokecord-selfbot#donate). It works in unison with your Discord software and the 'Automatic Identifier' plugin, recieving data from the plugin and automatically typing `p!catch <pokemon>`.
 ## Donate
