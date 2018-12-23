@@ -37,6 +37,8 @@ The 'Automatic Catcher' is a paid extension to the SelfBot. See [the Donate page
 The 'Bulk Trader' is a paid extension to the SelfBot. See [the Donate page](https://github.com/DankDominick/pokecord-selfbot#donate). It trades all of the Pokemon in your inventory to another user in less than a second.
 ##### Usage
 ~p bulk-trade @[username]
+## Installation
+To install, simply run `install.bat` in the master folder. After installation is finished, the SelfBot will automatically start. You may start the SelfBot at any time by running `start.bat` in the master folder. The SelfBot will open the Discord desktop program if it is not already running, or take you to the download page.
 ## Donate
 ### Features
 A donation of US$1 will unlock all paid plugins to the base SelfBot software.
@@ -44,7 +46,5 @@ A donation of US$1 will unlock all paid plugins to the base SelfBot software.
 To unlock the link, PM Dominick on Discord at Dominick#2312. One copy of the software pack is US$1.
 ## Notes
 - It is recommended to donate and use an alt account with the spammer and auto catcher, using the Bulk Trader plugin to backup all of your Pokemon every while, to avoid being banned on your main account and losing all of your Pokemon.
-## Installation
-To install, simply run `install.bat` in the master folder. After installation is finished, the SelfBot will automatically start. You may start the SelfBot at any time by running `start.bat` in the master folder. The SelfBot will open the Discord desktop program if it is not already running, or take you to the download page.
 ## Legal
 Please note that we am not responsible for any incidents caused by the software, including: Discord ban.
